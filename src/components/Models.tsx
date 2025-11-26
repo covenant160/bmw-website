@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const cars = [
-  { id: 1, name: "BMW M3", image: "/images/bmw-m3.jpg", description: "High performance sports sedan." },
+  { id: 1, name: "BMW M3", image: "/images/bmw-m3 123.jpg", description: "High performance sports sedan." },
   { id: 2, name: "BMW X5", image: "/images/bmw-x5.jpg", description: "Luxury SUV with advanced features." },
   { id: 3, name: "BMW i8", image: "/images/bmw-i8.jpg", description: "Futuristic electric sports car." },
   { id: 4, name: "BMW 7 Series", image: "/images/bmw-7series.jpg", description: "Full-size luxury sedan." },

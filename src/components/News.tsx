@@ -5,7 +5,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const galleryImages = [
-  { src: "/images/bmw-m3.jpg", caption: "BMW M3 Competition" },
+  { src: "/images/bmw-m3 123.jpg", caption: "BMW M3 Competition" },
   { src: "/images/bmw-x5.jpg", caption: "BMW X5" },
   { src: "/images/bmw-i8.jpg", caption: "BMW i8" },
   { src: "/images/bmw-7series.jpg", caption: "BMW 7 Series" },
